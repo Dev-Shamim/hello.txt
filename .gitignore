@@ -1,5 +1,7 @@
 # Ignore all hidden files and folders
 .*
+temp_auto_push.bat
 
 # But keep the .gitignore file itself
 !.gitignore
+temp_interactive_push.bat
